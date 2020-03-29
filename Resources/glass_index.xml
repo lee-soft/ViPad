@@ -1,0 +1,13 @@
+<slice_index>
+   <slice x="30" y="0" width="30" height="30" anchor="top_right"/>
+   <slice x="0" y="0" width="30" height="30" anchor="top_left"/>
+   <slice x="0" y="30" width="30" height="30" anchor="bottom_left"/>
+   <slice x="30" y="30" width="30" height="30" anchor="bottom_right"/>
+
+   <slice x="30" y="0" width="769" height="30" anchor="top"/>
+   <slice x="0" y="30" width="30" height="575" anchor="left"/>
+   <slice x="30" y="30" width="769" height="30" anchor="bottom"/>
+   <slice x="30" y="30" width="30" height="575" anchor="right"/>
+
+   <slice x="30" y="30" width="769" height="575" anchor="middle"/>
+</slice_index>
